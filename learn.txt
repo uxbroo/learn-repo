@@ -3,4 +3,4 @@ RESOLUSI 2021 :
 - Portofolio Website
 - Join forum diskusi
 - Belajar UI/UX Design
-- Front-end Web
+- Full Stack Web Designer
